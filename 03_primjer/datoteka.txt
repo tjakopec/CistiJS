@@ -1,0 +1,11 @@
+[
+{"marka": "Toyota", "naziv": "Verso"},
+{"marka": "Toyota", "naziv": "Yaris"},
+{"marka": "Opel", "naziv": "Insignia"},
+{"marka": "Opel", "naziv": "Vectra"},
+{"marka": "Opel", "naziv": "Astra"},
+{"marka": "Renault", "naziv": "Megane"},
+{"marka": "Renault", "naziv": "Clio"},
+{"marka": "Audi", "naziv": "A6"},
+{"marka": "Audi", "naziv": "A8"}
+]

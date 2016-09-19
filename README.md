@@ -1,7 +1,7 @@
 # CistiJS
 Seminar na temu Čisti JavaScript
 
-Na seminaru se pokazuje razlike između korištenja Javascript radnih okolina (jQuery) u odnosu na postizanje iste funkcionalnosti koristeći čisti javascript. Prikazani su osnovni gradivni elementi jezika kao i načini rada s događajima.
+Na seminaru se pokazuje razlike između korištenja Javascript radnih okolina (jQuery) u odnosu na postizanje iste funkcionalnosti koristeći čisti javascript. Srž seminara je ipak prikaz osnovnih gradivnih elemenata jezika. Prikazan je primjer filtriranja liste i odabir stavke liste za danju upotrebu.
 
    
    Oprema: Aptana Studio (može i Notepad++)
