@@ -10,7 +10,10 @@ function filtriraj() {
             povratnaFunkcija(xmlhttp.responseText);
         }
     };
-    xmlhttp.open("GET", "datoteka.txt", true);
+    var url = "datoteka.txt";
+		//zbog cache-a
+		url += '?_=' + (new Date()).getTime();
+    xmlhttp.open("GET", url, true);
     xmlhttp.send();
 }
 
